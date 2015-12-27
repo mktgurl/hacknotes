@@ -13,7 +13,7 @@ General Networking for all flavors of tech backgrounds and in no particular orde
 **Time:** 7pm-9pm  
 **Location:** Clinton Street Theater  
 **Topic:** What Animals Tell Us About Social Drinking  
-**Info:** http://www.meetup.com/ScienceOnTapORWA/events/226557419/   
+**Info:** meets once per month, http://www.meetup.com/ScienceOnTapORWA/events/226557419/   
 Event location alternates between Vancouver's Kiggins Theater and Portland's Clinton Street Theater  
 Costs: $8 (if booked online), $10 at the door
 
@@ -21,8 +21,8 @@ Costs: $8 (if booked online), $10 at the door
 **Date:** Jan 5  
 **Time:** 5pm  
 **Location:** Old Ivy Taproom (108 W Evergreen Blvd, Vancouver, WA)  
-**Theme:** tech topics, occassional speakers, some startup demos, general networking  
-**Info:** http://www.meetup.com/VanTechy/  
+**Theme:** tech topics, occassional speakers, startup demos, general networking  
+**Info:** meets every two weeks, http://www.meetup.com/VanTechy/  
 
 **PDX Big Data Discussion Group**  
 **Date:** Jan 6, 2016  
@@ -42,8 +42,14 @@ Costs: $8 (if booked online), $10 at the door
 **Date:** Jan 18  
 **Time:** 6pm  
 **Location:** MercyCorps Northwest (45 SW Ankeny St, Portland, OR)  
-**Info:** Meets every 3rd Monday of the month. Generally features 5 startup demos. http://www.meetup.com/NewTechPDX/  
+**Info:** Meets every 3rd Monday of the month. Features 5 startup demos. http://www.meetup.com/NewTechPDX/  
 **Cost:** $10 online or $20 at the door
+
+**PDX Women in Tech (PDXWIT) Happy Hour Networking Event**  
+**Date:** Jan 26  
+**Time:** 4:30pm  
+**Location:** WeWork (220 Northwest 8th Avenue, Portland, OR)  
+**Info:** http://www.pdxwit.org/  
 
 **eBay Tech Tuesday**  
 **Date:** Jan 27  
