@@ -10,6 +10,11 @@ Not a definitive list, but a starting point for 2016.
 
 **Portland Area Hackathons**  
 
+**Global Game Jam: Portland 2016**  
+*Dates:* Jan 29-31, 2016  
+*Details:* http://bit.ly/1lpFzLo  rsvp restriction age 18+  
+*Theme:* Game Coding  
+
 **CodeDay Portland**  
 *Dates:* Feb 13-14, 2016  
 *Details:* https://codeday.org/portland  rsvps for high school or college students only -no professionals-  
