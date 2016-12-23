@@ -6,7 +6,7 @@ Featured Startups: Columbia Food Park
 Contact: Eric Preisz of Vantechy Meetup  
 https://www.meetup.com/VanTechy/messages/boards/thread/50453849
 
-There are some interesting talks as well...  
+There are some interesting talks as well..   
 
 **Jan 5, 2017 - PDXWIT Yoga and Mindfulness to Reboot in a High Tech World**  
 Location: Momemtum Studio, 1028 Southeast Water Avenue, Portland, OR 97214  
