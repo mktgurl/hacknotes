@@ -12,3 +12,10 @@ There are some interesting talks as well..
 Location: Momemtum Studio, 1028 Southeast Water Avenue, Portland, OR 97214  
 Time: 6-7:30pm  
 RSVP: https://www.eventbrite.com/e/pdxwit-yoga-and-mindfulness-to-reboot-in-a-high-tech-world-tickets-28504083481
+
+**Jan 18, 2017 - Emotional Intelligence in Design**  
+Location: FINE, 1140 SW 11th Ave Suite 200, Portland, OR  
+Time: 6-7:30pm  
+RSVP: http://rfrshpdx.org/emotional-intelligence-in-design/  
+Speaker: Beth Dean, an illustrator and designer based in San Francisco  
+Speaker links: https://twitter.com/bethdean, http://thebethdean.com/
