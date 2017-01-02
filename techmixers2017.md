@@ -1,4 +1,4 @@
-The new year is just right around the corner.  Here's what's on the calendar already.
+Happy New Year!  Here's what's on the calendar already.
 
 **Feb 7, 2017 - Vantechy Pitch Night**  
 Location/Time TBD  
