@@ -6,6 +6,16 @@ Featured Startups: Columbia Food Park
 Contact: Eric Preisz of Vantechy Meetup  
 https://www.meetup.com/VanTechy/messages/boards/thread/50453849
 
+**Feb 9, 2017 - FutureTalks Tech Panel + Kickoff Celebration**  
+Location: New Relic (111 SW 5th Avenue, Suite 2700, Portland, OR 97204)  
+Featured topic: the region's tech and startup community  
+RSVP: https://www.eventbrite.com/e/futuretalks-tech-panel-kickoff-celebration-tickets-30933121800  
+Speakers:  
+*Malia Spencer* is a staff reporter for the Portland Business Journal  
+*Rebecca Campbell*, Senior Director of Engineering, focused on building out the internal engineering platform at New Relic  
+*Rick Turoczy* is the Cofounder of PIE, Founder of Silicon Florist, and Cofounder & Advisor to the Oregon Story Board  
+*Skip Newberry* is the President and CEO of the Technology Association of Oregon  
+
 **Mar 23 to Mar 24, 2017 - TechFestNW**  
 Location: Portland Art Museum (1219 SW Park Avenue, Portland, Oregon)  
 Featured topics: Artificial Intelligence, Virtual Reality, Lifestyle Tech, Digital Storytelling  
