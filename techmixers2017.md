@@ -26,3 +26,7 @@ Speakers:
 Location: Portland Art Museum (1219 SW Park Avenue, Portland, Oregon)  
 Featured topics: Artificial Intelligence, Virtual Reality, Lifestyle Tech, Digital Storytelling  
 RSVP: http://techfestnw.com/, https://www.ticketfly.com/purchase/event/1373169?utm_medium=bks
+
+**Apr 22 to Apr 29, 2017 - Design Week Portland**  
+Location: various; RSVP via Eventbrite  
+More info: https://www.designweekportland.com/events  
