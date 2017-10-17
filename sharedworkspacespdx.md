@@ -46,9 +46,9 @@ Portland, OR 97205
 (in the Union Bank building corner of SW Washington & Broadway)  
 Contact: Mark Grimes, 503.502.0185  
 
-Hot desk: $175-$275/mo
-Permanent/private desk: $375-$475/mo
-Private office w/ locking door: $475-$2,750/mo
+Hot desk: $175-$275/mo  
+Permanent/private desk: $375-$475/mo  
+Private office w/ locking door: $475-$2,750/mo  
 
 **TENpod**  
 http://www.tenpod.org/  
