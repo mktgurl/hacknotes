@@ -1,5 +1,5 @@
 Solopreneur, don't want maintain your own office space, or want to get away from the coffee shop WiFi vibe? 
-Look no further co-working spaces, otherwise known as shared workspace. Rates are per person unless 
+Look no further than co-working spaces, otherwise known as shared workspace. Rates are per person unless 
 indicated otherwise. Rates last updated October 2017.
 
 ### On the Portland, Oregon side: ###  
